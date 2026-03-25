@@ -1,0 +1,14 @@
+{
+  "socketPath": "\\\\.\\pipe\\mcp-658067ff-ca5a-47a1-ad33-37bbdf501f3f.sock",
+  "scheme": "pipe",
+  "headers": {
+    "Authorization": "Nonce ede4b9ed-2e7d-4293-9a90-ff60a20834bf"
+  },
+  "pid": 17208,
+  "ideName": "Visual Studio Code",
+  "timestamp": 1774390553156,
+  "workspaceFolders": [
+    "c:\\Users\\HP\\Desktop\\ai-resume-analyzer"
+  ],
+  "isTrusted": true
+}
